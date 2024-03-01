@@ -4,15 +4,20 @@ title: Introduction
 nav_order: 1
 ---
 
-# **Introduction** 
+# **Can AI speed up research?** 
 
-Useful AI tools and tips to speedup research, focusing on analysis of existing data (e.g., epidemiology, quantitative social science); loosley curated, free.
+Absolutely. The latest breakthroughs in artificial intelligence promise to transform society. Consider large language models: their capabilities are remarkable, encompassing a deep understanding of complex scientific domains, engaging in meaningful conversations (even passing the Turing Test), and generating, refining, and executing sophisticated analytical codes.
+
+Yet, the potential of AI to enhance academic research is still largely untapped.
+
+This site is dedicated to offering essential AI tools and insights to expedite research efforts, with a focus on analyzing existing data sets in fields such as epidemiology and quantitative social science. Here, you'll find a loosely curated collection of free resources designed to streamline your research process.
 
 
-# **Contribute / contact us** 
+# **Can AI partly automate research?** 
+Yes. AI's most promising aspect lies in its ability to automate mundane and repetitive tasks. This liberation allows scientists to aim higher, pushing the boundaries of creativity, ambition, and thoroughness in their work.
 
-To contribute / contact, email [David Bann](mailto:david.bann@ucl.ac.uk)
-
+# **Can AI fully automate research?** 
+Possibly. While the full automation of research by AI holds immense potential, achieving this milestone is currently beyond our grasp. Our aim is to harness AI to complement and augment human capabilities, driving forward the frontiers of research and discovery.
 
 # **Glossary** 
 
@@ -20,3 +25,8 @@ To contribute / contact, email [David Bann](mailto:david.bann@ucl.ac.uk)
 | :---            |      :---      |  
 | AI | Artificial intelligence | 
 | AGI | Artificial general intelligence - generally defined an autonomous system that surpasses human capabilities in the majority of economically valuable task .|
+
+
+# **Contribute / contact us** 
+
+We welcome contributions / feedback: [David Bann](mailto:david.bann@ucl.ac.uk)
