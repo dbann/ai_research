@@ -17,10 +17,15 @@ Consider large language models: their capabilities are remarkable, understanding
 Yet, the potential of AI to enhance academic research remains largely untapped.
 
 # **How?**
-AI’s most promising aspect lies in its ability to automate mundane and repetitive tasks. This allows scientists to aim higher, pushing the boundaries of creativity, ambition, and thoroughness in their work.
+AI’s most promising aspect lies in its ability to automate mundane and repetitive tasks. This allows scientists to aim higher, pushing the boundaries of creativity, ambition, and robustness. In the future we should be able to: 
+<ul>
+  <li> Generate systematic literature reviews with a single click </li>
+  <li> Rather than using 1 x dataset in your analysis, use multiple studies and triangulate your findings </li>
+  <li> Automatically ensure that all code is provided for each paper, enabling replication </li>
+  <li> Convert complex scientific articles to press releases/blogs/other forms for general audience consumption </li>
+</ul>
 
-# **What does the future hold?** 
-In the short term: an increasing use of AI across the entire research system, from funding to review.
+In the short term: we predict an increasing use of AI across the entire research system, from funding to review.
 
 In the medium to longer term: many project that AGI (Artificial General Intelligence) will be achieved before 2034. This could mean that science itself might be automated by AI agents!
 
