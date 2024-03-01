@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # **Purpose**
-To accelerate research through the power of AI, we curate high-quality AI tools and insights, focusing on the analysis of existing datasets in fields such as epidemiology and quantitative social science.
+To accelerate research through AI by curating high-quality AI tools and insights, focusing on the analysis of existing datasets in fields such as epidemiology and quantitative social science.
 
 Our goal is to empower scientists to elevate their work by leveraging AI for creativity, ambition, and thoroughness.
 
