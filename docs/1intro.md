@@ -37,3 +37,4 @@ A major challenge will be ensuring that AI goals are aligned with those of the r
 | :---            |      :---      |  
 | AI | Artificial intelligence, the simulation of human intelligence processes by machines | 
 | AGI | Artificial general intelligence - generally defined an autonomous system that surpasses human capabilities in the majority of economically valuable task. This would include tasks commonly done by expert scientists.|
+| LLM | Large Language Model: is an advanced artificial intelligence system trained on vast amounts of text data to understand and generate human language. It learns from the patterns in data to perform tasks like text generation, translation, and question answering. LLMs use deep learning techniques, consisting of billions of parameters, enabling them to process and produce language with a high degree of fluency.|
