@@ -10,7 +10,9 @@ To accelerate research through AI by curating high-quality AI tools and insights
 Our goal is to empower scientists to elevate their work by leveraging AI for creativity, ambition, and thoroughness.
 
 # **Can AI accelerate research?**
-Absolutely. The latest breakthroughs in AI promise to transform society. Consider large language models: their capabilities are remarkable, encompassing a deep understanding of complex scientific domains, engaging in meaningful conversations (even passing the Turing Test), and generating, refining, and executing sophisticated analytical code.
+Absolutely. The latest breakthroughs in AI promise to transform society. 
+
+Consider large language models: their capabilities are remarkable, understanding complex scientific domains, engaging in meaningful conversations (even passing the Turing Test), and generating, refining, and executing sophisticated analytical code.
 
 Yet, the potential of AI to enhance academic research remains largely untapped.
 
