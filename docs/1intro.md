@@ -5,24 +5,24 @@ nav_order: 1
 ---
 
 # **Purpose**
-To help accelerate research through the power of AI. We curate high quality AI tools and insights, focusing on analysis of existing dataset - fields such as epidemiology and quantitative social science.
+To accelerate research through the power of AI, we curate high-quality AI tools and insights, focusing on the analysis of existing datasets in fields such as epidemiology and quantitative social science.
 
 Our goal is to empower scientists to elevate their work by leveraging AI for creativity, ambition, and thoroughness.
 
-# **Can AI accelerate research**
+# **Can AI accelerate research?**
 Absolutely. The latest breakthroughs in AI promise to transform society. Consider large language models: their capabilities are remarkable, encompassing a deep understanding of complex scientific domains, engaging in meaningful conversations (even passing the Turing Test), and generating, refining, and executing sophisticated analytical code.
 
-Yet, the potential of AI to enhance academic research is still largely untapped. 
+Yet, the potential of AI to enhance academic research remains largely untapped.
 
 # **How?**
-AI's most promising aspect lies in its ability to automate mundane and repetitive tasks. This allows scientists to aim higher, pushing the boundaries of creativity, ambition, and thoroughness in their work.
+AI’s most promising aspect lies in its ability to automate mundane and repetitive tasks. This allows scientists to aim higher, pushing the boundaries of creativity, ambition, and thoroughness in their work.
 
 # **What does the future hold?** 
-In the short term: increasing use of AI across the entire research system (from funding to review). 
+In the short term: an increasing use of AI across the entire research system, from funding to review.
 
-In the medium-longer term: many project that AGI will be achieved before 2034. This could mean that science itself could be automated by AI agents!  
+In the medium to longer term: many project that AGI (Artificial General Intelligence) will be achieved before 2034. This could mean that science itself might be automated by AI agents!
 
-A major challenge will be ensuring that AI goals are aligned with those of the research community. Our aim is to harness AI to complement and augment human capabilities, driving forward the frontiers of research and discovery. 
+A major challenge will be ensuring that AI goals are aligned with those of the research community. Our aim is to harness AI to complement and augment human capabilities, driving forward the frontiers of research and discovery.
 
 # **Glossary** 
 
