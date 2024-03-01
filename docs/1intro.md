@@ -20,7 +20,7 @@ AI's most promising aspect lies in its ability to automate mundane and repetitiv
 # **What does the future hold?** 
 In the short term: increasing use of AI across the entire research system (from funding to review). 
 
-In the medium-longer term: many project that AGI will be achieved before 2034. This would mean that science itself could be automated.  
+In the medium-longer term: many project that AGI will be achieved before 2034. This could mean that science itself could be automated by AI agents!  
 
 A major challenge will be ensuring that AI goals are aligned with those of the research community. Our aim is to harness AI to complement and augment human capabilities, driving forward the frontiers of research and discovery. 
 
