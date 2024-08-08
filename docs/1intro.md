@@ -4,17 +4,15 @@ title: Introduction
 nav_order: 1
 ---
 
-# **Purpose**
-To accelerate research through AI by curating high-quality AI tools and insights, focusing on the analysis of existing datasets in fields such as epidemiology and quantitative social science.
-
-Our goal is to empower scientists to elevate their work by leveraging AI for creativity, ambition, and thoroughness.
+# **Goal**
+To accelerate research by curating high-quality AI tools, focusing on the analysis of existing datasets in fields such as epidemiology and quantitative social science.
 
 # **Can AI accelerate research?**
 Absolutely. The latest breakthroughs in AI promise to transform society. 
 
 Consider large language models: their capabilities are remarkable, understanding complex scientific domains, engaging in meaningful conversations (even passing the Turing Test), and generating, refining, and executing sophisticated analytical code.
 
-Yet, the potential of AI to enhance academic research remains largely untapped.
+Yet the potential of AI to enhance academic research remains largely untapped.
 
 # **How?**
 AI’s most promising aspect lies in its ability to automate mundane and repetitive tasks. This allows scientists to aim higher, pushing the boundaries of creativity, ambition, and robustness. In the future we should be able to: 
@@ -30,6 +28,9 @@ In the short term: we predict an increasing use of AI across the entire research
 In the medium to longer term: many project that AGI (Artificial General Intelligence) will be achieved before 2034. This could mean that science itself might be automated by AI agents!
 
 A major challenge will be ensuring that AI goals are aligned with those of the research community. Our aim is to harness AI to complement and augment human capabilities, driving forward the frontiers of research and discovery.
+
+# **What does this site do**
+We will compile useful AI tools and, in time, recommend useful / cost-effective tools 
 
 # **Glossary** 
 
